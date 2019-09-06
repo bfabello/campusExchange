@@ -28,45 +28,45 @@ Only students with UCSC.edu emails will be able to make accounts. There they wil
 
 ## Screenshots
 
-###### Login and Homepage
-```
+### Login and Homepage
+
 ![login](screenshots/login_homePage.gif)
-```
 
-###### Using Non-UCSC Email
-'''
+
+### Using Non-UCSC Email
+
 ![Non UCSC Email](screenshots/signin_NonUCSC.gif)
-'''
 
-##### Add Post
-'''
+
+### Add Post
+
 ![Add Post](screenshots/addPost.gif)
-'''
 
-###### View Post & Send Message
-'''
+
+#### View Post & Send Message
+
 ![View Post and Send Message](screenshots/viewPost_sendMsg.gif)
-'''
 
-##### View Messages
-'''
+
+### View Messages
+
 ![View Messages](screenshots/viewMessages.gif)
-'''
 
-##### Search Bar
-'''
+
+### Search Bar
+
 ![Search Bar](screenshots/searchBar.gif)
-'''
 
-##### Saved Posts
-'''
+
+### Saved Posts
+
 ![Saved Posts](screenshots/savedPosts.gif)
-'''
 
-##### All Category
-'''
+
+### All Category
+
 ![All Category](screenshots/all_category.gif)
-'''
+
 
 ## Built With
 * web2Py framework
